@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <h3 align="left">Web Developer and Designer</h3>
 
 ###
-* 🌍  I'm based in Jaipur
+* 🌍  I'm from Jaipur
 * 🚀  I'm currently working on [RaahSathi](http://raah-sathi.vercel.app/)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on [Bitskel](https://github.com/nayiswftw/bitskel)
