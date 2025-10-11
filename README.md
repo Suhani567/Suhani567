@@ -3,7 +3,7 @@
 <h3 align="left">Web Developer, Game Developer & AI Enthusiast</h3>
 
 * 🌍 I'm from Jaipur  
-* 🚀 Currently working on [HerRights](http://raah-sathi.vercel.app/)  
+* 🚀 Currently working on [HerRights]((https://github.com/Suhani567/Herrights))  
 * 🧠 Learning React & AI/ML frameworks  
 * 🤝 Open to collaborating on [BitSkil](https://github.com/nayiswftw/bitskel)  
 
@@ -34,7 +34,7 @@
 ### **Tech Skills**
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,py,java,cpp,mysql,figma,godot,vscode" height="30" />
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,py,java,cpp,mysql,figma,godot,vscode,github" height="30" />
 </div>
 
 ---
