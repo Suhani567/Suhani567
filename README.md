@@ -1,10 +1,9 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Suhani
-==============================================================================================================================
 
 <h3 align="left">Web Developer, Game Developer & AI Enthusiast</h3>
 
 * 🌍 I'm from Jaipur  
-* 🚀 Currently working on [RaahSathi](http://raah-sathi.vercel.app/)  
+* 🚀 Currently working on [HerRights](http://raah-sathi.vercel.app/)  
 * 🧠 Learning React & AI/ML frameworks  
 * 🤝 Open to collaborating on [BitSkil](https://github.com/nayiswftw/bitskel)  
 
