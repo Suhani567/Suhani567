@@ -2,9 +2,8 @@
 <div align="center">
   <img height="150" src="https://media.tenor.com/n6aE1z2sIRwAAAAi/%E0%B8%A1%E0%B8%87%E0%B8%A5%E0%B8%87-sassy.gif" />
 </div>
-<h3 align="left">Web Developer, Game Developer & AI Enthusiast</h3>
 
-* 🌍 I'm from Jaipur  
+* 🌍 I'm from Jaipur,Rajasthan,India 
 * 🚀 Currently working on [HerRights](https://github.com/Suhani567/Herrights)  
 * 🧠 Learning React & AI/ML frameworks  
 * 🤝 Open to collaborating on [BitSkil](https://github.com/nayiswftw/bitskel)  
