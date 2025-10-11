@@ -1,70 +1,75 @@
-
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Suhani
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Suhani
 ==============================================================================================================================
 
-###
-<h3 align="left">Web Developer and Designer</h3>
+<h3 align="left">Web Developer, Game Developer & AI Enthusiast</h3>
 
-###
-* 🌍  I'm from Jaipur
-* 🚀  I'm currently working on [RaahSathi](http://raah-sathi.vercel.app/)
-* 🧠  I'm learning React
-* 🤝  I'm open to collaborating on [Bitskel](https://github.com/nayiswftw/bitskel)
-###
+* 🌍 I'm from Jaipur  
+* 🚀 Currently working on [RaahSathi](http://raah-sathi.vercel.app/)  
+* 🧠 Learning React & AI/ML frameworks  
+* 🤝 Open to collaborating on [BitSkil](https://github.com/nayiswftw/bitskel)  
 
-<div align="center">
-  <img height="150" src="https://media.tenor.com/n6aE1z2sIRwAAAAi/%E0%B8%A1%E0%B8%87%E0%B8%A5%E0%B8%87-sassy.gif"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="suhani190505@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="www.linkedin.com/in/suhu" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/suhani_vh/#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=godot" height="30" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-</div>
-
-###
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suhani567&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Suhani567&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=true" height="150" alt="languages graph"  />
+  <img height="150" src="https://media.tenor.com/n6aE1z2sIRwAAAAi/%E0%B8%A1%E0%B8%87%E0%B8%A5%E0%B8%87-sassy.gif" />
 </div>
 
-###
+---
 
-<br clear="both">
+### **Connect with Me**
+
+<div align="left">
+  <a href="mailto:suhani190505@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://www.linkedin.com/in/suhu" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://github.com/Suhani567" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=181717&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+</div>
+
+---
+
+### **Tech Skills**
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,py,java,cpp,mysql,figma,godot,vscode" height="30" />
+</div>
+
+---
+
+### **Projects & Experience**
+
+- **PAX (Python, Godot)** – 2D multiplayer game development, client-server communication.  
+- **BitSkill (Java)** – Game mechanics, scoring system, UI development.  
+- **RunNeeti (Python, Streamlit)** – Cricket analytics dashboards.  
+- **HerRights (ReactJS, Tailwind CSS)** – Women empowerment website, responsive frontend.  
+
+---
+
+### **Leadership & Volunteer**
+
+- **Captain – GitHub Student Council**: Led workshops & coding events.  
+- **Chair – YI Yuva Vertical**: Managed youth initiatives.  
+- **Volunteer**: Rising Rajasthan Summit, JECC; Nanhe Kalakaar; Pranav Sharma Standup; RedBull FMX Showcase; MOTOFY Fest 2025  
+
+---
+
+### **GitHub Stats**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Suhani567&show_icons=true&count_private=true&theme=material-palenight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhani567&layout=compact&theme=material-palenight&hide_border=true&langs_count=5" height="150" />
+</div>
+
+---
+
+### **Hobbies & Interests**
+Drawing 🎨, Cooking 🍳, Singing 🎤, Journaling 📓, Reading Books 📚, Game Development 🎮, Exploring Tech & AI 🤖
+
+---
 
 <img src="https://raw.githubusercontent.com/Suhani567/Suhani567/output/snake.svg" alt="Snake animation" />
+
