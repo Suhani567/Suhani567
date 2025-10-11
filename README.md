@@ -2,16 +2,14 @@
 
 <h3 align="left">Web Developer, Game Developer & AI Enthusiast</h3>
 
+<div align="center">
+  <img height="150" src="https://media.tenor.com/n6aE1z2sIRwAAAAi/%E0%B8%A1%E0%B8%87%E0%B8%A5%E0%B8%87-sassy.gif" />
+</div>
+
 * 🌍 I'm from Jaipur  
 * 🚀 Currently working on [HerRights]((https://github.com/Suhani567/Herrights))  
 * 🧠 Learning React & AI/ML frameworks  
 * 🤝 Open to collaborating on [BitSkil](https://github.com/nayiswftw/bitskel)  
-
----
-
-<div align="center">
-  <img height="150" src="https://media.tenor.com/n6aE1z2sIRwAAAAi/%E0%B8%A1%E0%B8%87%E0%B8%A5%E0%B8%87-sassy.gif" />
-</div>
 
 ---
 
@@ -36,23 +34,6 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js,react,html,css,py,java,cpp,mysql,figma,godot,vscode,github" height="30" />
 </div>
-
----
-
-### **Projects & Experience**
-
-- **PAX (Python, Godot)** – 2D multiplayer game development, client-server communication.  
-- **BitSkill (Java)** – Game mechanics, scoring system, UI development.  
-- **RunNeeti (Python, Streamlit)** – Cricket analytics dashboards.  
-- **HerRights (ReactJS, Tailwind CSS)** – Women empowerment website, responsive frontend.  
-
----
-
-### **Leadership & Volunteer**
-
-- **Captain – GitHub Student Council**: Led workshops & coding events.  
-- **Chair – YI Yuva Vertical**: Managed youth initiatives.  
-- **Volunteer**: Rising Rajasthan Summit, JECC; Nanhe Kalakaar; Pranav Sharma Standup; RedBull FMX Showcase; MOTOFY Fest 2025  
 
 ---
 
