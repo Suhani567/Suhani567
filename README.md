@@ -1,10 +1,8 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Suhani
-
-<h3 align="left">Web Developer, Game Developer & AI Enthusiast</h3>
-
 <div align="center">
   <img height="150" src="https://media.tenor.com/n6aE1z2sIRwAAAAi/%E0%B8%A1%E0%B8%87%E0%B8%A5%E0%B8%87-sassy.gif" />
 </div>
+<h3 align="left">Web Developer, Game Developer & AI Enthusiast</h3>
 
 * 🌍 I'm from Jaipur  
 * 🚀 Currently working on [HerRights](https://github.com/Suhani567/Herrights)  
