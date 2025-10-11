@@ -3,7 +3,7 @@
   <img height="150" src="https://media.tenor.com/n6aE1z2sIRwAAAAi/%E0%B8%A1%E0%B8%87%E0%B8%A5%E0%B8%87-sassy.gif" />
 </div>
 
-* 🌍 I'm from Jaipur,Rajasthan,India 
+* 🌍 I'm from Jaipur,India 
 * 🚀 Currently working on [HerRights](https://github.com/Suhani567/Herrights)  
 * 🧠 Learning React & AI/ML frameworks  
 * 🤝 Open to collaborating on [BitSkil](https://github.com/nayiswftw/bitskel)  
