@@ -7,7 +7,7 @@
 </div>
 
 * 🌍 I'm from Jaipur  
-* 🚀 Currently working on [HerRights]((https://github.com/Suhani567/Herrights))  
+* 🚀 Currently working on [HerRights](https://github.com/Suhani567/Herrights)  
 * 🧠 Learning React & AI/ML frameworks  
 * 🤝 Open to collaborating on [BitSkil](https://github.com/nayiswftw/bitskel)  
 
